@@ -3,8 +3,9 @@
 body{
 	background-color: linen;
 	/*font-family:: 'Open Sans Condensed', sans-serif;*/
-	font-family: 'Text Me One', sans-serif
+	font-family: 'Text Me One', sans-serif;
+	text-align: center;
 }
 h1{
-	font-family: 'Open Sans Condensed', sans-serif;
-}
+	font-family: 'Open Sans Condensed', sans-serif;}
+img{
