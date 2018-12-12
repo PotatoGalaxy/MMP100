@@ -1,6 +1,7 @@
 body{
 	font-family: Arial, Helvetica, sans-serif;
 	text-align: center;
+	color: white;
 	background-color: navy;
 }
 
@@ -11,12 +12,11 @@ a{
 
 a:hover{
 	color: white;
-	text-decoration: none;
+	text-decoration: box;
 }
 
-/*Navigation Styles*/
 nav a{
-	background-color: red;
+	background-color: crimson;
 }
 nav ul{
 	list-style: none;
@@ -30,6 +30,4 @@ nav li{
 h1{
 	font-family: 'Open Sans Condensed', sans-serif;}
 
-img{
-
-	}
+ <img src="index.gif">
