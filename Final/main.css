@@ -1,0 +1,33 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: white;
+	background-color: navy;
+}
+
+a{
+
+	color: white;
+}
+
+a:hover{
+	color: white;
+	text-decoration: box;
+}
+
+nav a{
+	background-color: crimson;
+}
+nav ul{
+	list-style: none;
+}
+
+nav li{
+	display: inline-block;
+	padding: 10px
+}
+
+h1{
+	font-family: 'Open Sans Condensed', sans-serif;}
+
+ <img src="index.gif">
